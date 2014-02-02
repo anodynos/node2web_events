@@ -1,0 +1,11 @@
+{
+ "name": "events",
+ "version": "3.24.10",
+ "main": "events.min.js",
+ "description": "'events' nodejs core module browserify-ied with `--standalone events`.\nSupports all module systems (commonjs, AMD & `window.events`) - check browserify docs.",
+ "keywords": [
+  "nodejs",
+  "browserify",
+  "events"
+ ]
+}
